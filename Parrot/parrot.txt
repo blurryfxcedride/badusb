@@ -1,0 +1,15 @@
+REM ####################################
+REM Made by blurryfxcedride            #
+REM https://github.com/blurryfxcedride #
+REM ####################################
+
+DELAY 500
+GUI R
+DELAY 100
+STRING cmd
+DELAY 100
+ENTER
+DELAY 500
+STRING curl parrot.live
+DELAY 100
+ENTER
